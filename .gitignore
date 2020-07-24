@@ -2,6 +2,9 @@
 */.idea/
 /project/boot/
 /project/plugins/project
+project/.boot/
+project/.sbtboot/
+
 **/*.*~
 /**/logs
 target/
